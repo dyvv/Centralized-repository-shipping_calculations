@@ -1,5 +1,5 @@
 # Shipping Cost Calculator
-# Here is another update by Dyvv
+
 ## Input package weight and shipping rate
 # Here is a new update by DYVV
 weight = float(input("Enter the package weight in kilograms: "))
